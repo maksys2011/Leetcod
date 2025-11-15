@@ -1,4 +1,3 @@
-#include <iostream>
 #include <vector>
 #include <unordered_map>
 
@@ -24,6 +23,3 @@ public:
         return{};
     }
 };
-int main(){
-    return 0;
-}

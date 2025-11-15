@@ -1,7 +1,6 @@
 #include <vector>
 #include <string>
 
-
 class Solution {
 public:
     std::string longestCommonPrefix(std::vector<std::string>& strs) 

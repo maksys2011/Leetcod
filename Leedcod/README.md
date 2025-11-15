@@ -1,7 +1,7 @@
 # Leedcod C++ Solution
 
 Здесь я собираю решение задач Leedcod на языке С++
-Структура по категориям (темам: array, hash_table, linked_list и др)
+Структура по категориям (array, hash_table, linked_list и др)
 
 Каждое решение содержит:
 - номер задачи

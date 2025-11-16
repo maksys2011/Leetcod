@@ -1,6 +1,6 @@
 # Leedcod C++ Solution
 
-Здесь я собираю решение задач Leedcod на языке С++
+Здесь я собираю мои решения задач Leedcod на языке С++
 Структура по категориям (array, string, hash_table, linked_list и др)
 
 Итого решено:

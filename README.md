@@ -9,9 +9,9 @@
 
 ## 📊 Статистика
 - **Easy:** 91  
-- **Medium:** 6  
+- **Medium:** 7  
 - **Hard:** 0  
-- **Всего решено:** 97
+- **Всего решено:** 98
 
 (точное число меняется — обновляю вручную)
 
@@ -111,7 +111,7 @@
 - 914 — X of a Kind in a Deck of Cards
 - 929 — Unique Email Addresses
 - 953 — Verifying an Alien Dictionary
-
+- 17  — Letter Combinations of a Phone Number
 
 ---
 

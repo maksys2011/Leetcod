@@ -73,14 +73,3 @@ private:
     return nums;
   }
 };
-
-int main()
-{
-  Solution s;
-  std::string str = "5678";
-  std::vector<std::string> words = s.letterCombinations(str);
-  for(auto it : words){
-    std::cout << it << std::endl;
-  }
-  return 0;
-}

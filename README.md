@@ -115,6 +115,7 @@
 - 36  — Valid Sudoku
 - 1122 — Relative Sort Array
 - 49  — Group Anagrams
+- 1128 — Number of Equivalent Domino Pairs
 
 ---
 

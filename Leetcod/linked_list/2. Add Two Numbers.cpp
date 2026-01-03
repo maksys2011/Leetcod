@@ -1,7 +1,6 @@
 #include <vector>
 #include <algorithm>
 
-
 struct ListNode {
       int val;
       ListNode *next;
